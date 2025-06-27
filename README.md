@@ -73,8 +73,13 @@
 ## 𓆩✧𓆪 Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,100:000000&height=150&section=footer&animation=fadeIn&fontAlignY=65" width="100%" />
