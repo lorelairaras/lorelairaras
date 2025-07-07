@@ -10,8 +10,6 @@
 
 ✨ I'm **Lorelai Raras**, a resilient Information Technology student with a passion for web development, design, and all things creative. <br> I enjoy continuously learning new tools to enhance my skills. 💻
 
-<br>
-
 #### ⋆˚꩜｡ Currently Exploring ✮⋆｡°✩
 
 - JavaScript ꩜
