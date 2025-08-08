@@ -8,18 +8,23 @@
   <tr>
     <td>
 
-✨ I'm **Lorelai Raras**, a resilient Information Technology student with a passion for web development, design, and all things creative. <br> I enjoy continuously learning new tools to enhance my skills. 💻
+✨ I'm **Lorelai Raras**, a resilient Information Technology student with a passion for web development, design, and all things creative. Currently looking for a learning path I wish to pursue! <br> I enjoy continuously learning new tools to enhance my skills. 💻
 
 #### ⋆˚꩜｡ Currently Exploring ✮⋆｡°✩
 
 - JavaScript ꩜
 - Tailwind CSS ꩜
 - React ꩜
+- Python ꩜
+- Power BI ꩜
+- Tableau ꩜
 
 #### ⋆˚꩜｡ Core Tech Stack ✮⋆｡°✩
 
 - HTML ★
 - CSS ★
+- SQL ★
+- Python ★
 
 ## 𑄝 Moodboard Cat
 
@@ -43,6 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="SQL/MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="SQL/MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="Pandas" />
 </p>
 
 ## 𓆩✧𓆪 GitHub Stats
