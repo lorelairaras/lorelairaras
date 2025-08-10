@@ -8,7 +8,7 @@
   <tr>
     <td>
 
-✨ I'm **Lorelai Raras**, a resilient Information Technology student with a passion for web development, design, and all things creative. Currently looking for a learning path I wish to pursue! <br> I enjoy continuously learning new tools to enhance my skills. 💻
+✨ I'm **Lorelai Raras**, a resilient Information Technology student with a passion for web development, design, and all things creative. Currently looking for a learning path I wish to pursue! I enjoy continuously learning new tools to enhance my skills. 💻
 
 #### ⋆˚꩜｡ Currently Exploring ✮⋆｡°✩
 
