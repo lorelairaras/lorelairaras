@@ -1,5 +1,24 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2d3436&height=150&section=header&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img
+  src="https://readme-typing-svg.demolab.com
+       ?font=Dancing+Script
+       &size=48
+       &duration=4000
+       &pause=400
+       &color=FFB6C1
+       &center=true
+       &vCenter=true
+       &multiline=true
+       &repeat=true
+       &width=1000
+       &height=130
+       &lines=Lorelai+Mei+Raras;
+              IT+Student+%7C+Web+Dev+Enthusiast;
+              Creativity+meets+Code"
+  width="80%"
+/>
+
 </p>
 
 ## ✦ About Me ☠
