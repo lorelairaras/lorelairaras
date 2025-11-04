@@ -30,10 +30,10 @@
 
 <p align="center">
   <!-- 💤 Chill Cat -->
-  <!-- <img src="https://media.giphy.com/media/ToMjGppLes0ENI5osCc/giphy.gif" width="300" alt="Hot Cat in Front of Fan"/> -->
+  <img src="https://media.giphy.com/media/ToMjGppLes0ENI5osCc/giphy.gif" width="300" alt="Hot Cat in Front of Fan"/>
 
   <!-- 🧠 Locked In -->
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing on laptop"/>
+  <!-- <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing on laptop"/> -->
 
   <!-- 😺 Happy Cat -->
   <!-- <img src="https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif" width="300" alt="Money Cat" /> -->
