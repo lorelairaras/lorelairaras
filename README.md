@@ -8,21 +8,23 @@
   <tr>
     <td>
 
-✨ I'm **Lorelai Raras**, a BS Information Technology graduate and aspiring **Business System Analyst** with a strong interest in web development, product thinking, and creative design. I enjoy building systems that connect business needs with practical technical solutions.
+✨ I'm **Lorelai Raras**, a BS Information Technology graduate exploring opportunities in **Product Engineering**, **Tech Business Analysis**, and **Business Systems Analysis**. I’m deeply interested in building digital solutions that connect business needs, user experience, and practical technical execution.
 
-Currently, I’ve been **vibe coding and contributing to real projects in a company environment**, exploring technologies like JavaScript, React, Python, and data tools while continuously improving my understanding of systems, workflows, and user-centered solutions.
+Currently, I’ve been **vibe coding and contributing to real projects in a company environment**, while exploring technologies like JavaScript, React, Python, and data tools. At the same time, I’m continuously strengthening my understanding of systems, workflows, product thinking, and user-centered solutions.
 
-I’m also exploring **design, project management, product development, and business analysis**, aiming to grow into roles that bridge technology, people, and processes.
+I’m especially interested in roles where I can help bridge **technology, business, people, and processes** — whether through product support, systems analysis, documentation, process improvement, hands-on development, or virtual support work. I’m also open to side hustles and freelance opportunities in **web development, virtual assistance, digital marketing support, and graphic design support**, while continuing to explore where I can grow best in tech, and I’m excited to learn more across the tech space as I build my skills further.
 
-Outside of development, I’m interested in opportunities related to **data analysis, research, data annotation, and creative work such as graphic design**. I’m open to **hybrid, remote, or on-site opportunities**, including **volunteer projects** where my skills can genuinely contribute.
+Beyond development, I also enjoy exploring **design, project management, product development, data analysis, research, data annotation, virtual assistance, digital marketing support, and creative work such as graphic design**.and creative problem-solving**. I’m open to **hybrid, remote, or on-site opportunities**, including **volunteer projects** where I can contribute meaningfully and continue learning.
 
-Always learning, always building - and always curious about new ways technology can solve real-world problems. 💻
+Always learning, always building — and always curious about how technology can solve real-world problems. 💻
 
 <p align="center">⋆｡𖦹°‧★‧°𖦹｡⋆</p>
 
-> Open to Business System Analyst, Product, Data, Research, and Creative Support opportunities
+> Open to opportunities in Product Engineering, Tech Business Analysis, Business Systems Analysis, Web Development, Virtual Assistance, Digital Marketing VA, Graphic Design VA, Product, Data, Research, and Creative Support
 
-> Hybrid | Remote | On-site | Volunteer projects within my skill set
+> Exploring more paths in tech while building skills in systems, product thinking, development, and remote support work
+
+> Hybrid | Remote | On-site | Freelance | Volunteer projects within my skill set
 
 #### ⋆˚꩜｡ Currently Exploring ✮⋆｡°✩
 
@@ -34,7 +36,9 @@ Always learning, always building - and always curious about new ways technology 
 - Power BI ꩜
 - Tableau ꩜
 - Artificial Intelligence / Machine Learning ꩜
+- Product Engineering ꩜
 - Product Development ꩜
+- Tech Business Analysis ꩜
 - Business Systems Analysis ꩜
 - Agile / Scrum Practices ꩜
 - UI / UX Design ꩜
