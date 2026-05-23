@@ -1,124 +1,351 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2d3436&height=150&section=header&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/main/assets/Banner.jpg" width="100%" alt="Lorelai Mei Raras"/>
 </p>
 
-## ✦ About Me ☠
-
-<table>
-  <tr>
-    <td>
-
-✨ I'm **Lorelai Raras**, a BS Information Technology graduate exploring opportunities in **Product Engineering**, **Tech Business Analysis**, and **Business Systems Analysis**. I’m deeply interested in building digital solutions that connect business needs, user experience, and practical technical execution.
-
-Currently, I’ve been **vibe coding and contributing to real projects in a company environment**, while exploring technologies like JavaScript, React, Python, and data tools. At the same time, I’m continuously strengthening my understanding of systems, workflows, product thinking, and user-centered solutions.
-
-I’m especially interested in roles where I can help bridge **technology, business, people, and processes** — whether through product support, systems analysis, documentation, process improvement, hands-on development, or virtual support work. I’m also open to side hustles and freelance opportunities in **web development, virtual assistance, digital marketing support, and graphic design support**, while continuing to explore where I can grow best in tech, and I’m excited to learn more across the tech space as I build my skills further.
-
-Beyond development, I also enjoy exploring **design, project management, product development, data analysis, research, data annotation, virtual assistance, digital marketing support, and creative work such as graphic design**.and creative problem-solving**. I’m open to **hybrid, remote, or on-site opportunities**, including **volunteer projects** where I can contribute meaningfully and continue learning.
-
-Always learning, always building — and always curious about how technology can solve real-world problems. 💻
-
-<p align="center">⋆｡𖦹°‧★‧°𖦹｡⋆</p>
-
-> Open to opportunities in Product Engineering, Tech Business Analysis, Business Systems Analysis, Web Development, Virtual Assistance, Digital Marketing VA, Graphic Design VA, Product, Data, Research, and Creative Support
-
-> Exploring more paths in tech while building skills in systems, product thinking, development, and remote support work
-
-> Hybrid | Remote | On-site | Freelance | Volunteer projects within my skill set
-
-#### ⋆˚꩜｡ Currently Exploring ✮⋆｡°✩
-
-- JavaScript ꩜
-- TypeScript ꩜
-- Tailwind CSS ꩜
-- React ꩜
-- Python ꩜
-- Power BI ꩜
-- Tableau ꩜
-- Artificial Intelligence / Machine Learning ꩜
-- Product Engineering ꩜
-- Product Development ꩜
-- Tech Business Analysis ꩜
-- Business Systems Analysis ꩜
-- Agile / Scrum Practices ꩜
-- UI / UX Design ꩜
-- Data Analysis ꩜
-
-#### ⋆˚꩜｡ Core Tech Stack ✮⋆｡°✩
-
-- HTML ★
-- CSS ★
-- JavaScript ★
-- SQL / MySQL ★
-- Python ★
-- React ★
-- Git & GitHub ★
-- Figma ★
-- Lucidchart ★
-- Microsoft Office & Google Workspace ★
-
-## 𑄝 Moodboard Cat
+<br/>
 
 <p align="center">
-  <!-- 💤 Chill Cat -->
-  <!-- <img src="https://media.giphy.com/media/ToMjGppLes0ENI5osCc/giphy.gif" width="300" alt="Hot Cat in Front of Fan"/> -->
-
-  <!-- 🧠 Locked In -->
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing on laptop"/>
-
-  <!-- 😺 Happy Cat -->
-  <!-- <img src="https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif" width="300" alt="Money Cat" /> -->
+  <a href="https://linkedin.com/in/lorelai-raras">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lorelairaras">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:lorelairaras@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lorelairaras&style=for-the-badge&color=0A0A0A&label=PROFILE+VIEWS"/>
 </p>
-## 𓆩✧𓆪 Technologies & Tools
+
+---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="SQL/MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
+  <em>IT Business Analyst  ·  Systems Thinker  ·  AI-Native  ·  Remote-Ready</em>
 </p>
+
+---
+
+## ✦ whoami
+
+BS Information Technology graduate currently working as a **Business System Analyst Trainee** at Edufied Pte Ltd — a remote SaaS/EdTech company. I sit at the intersection of business strategy, systems thinking, and technical execution.
+
+My work is about making sure what gets built is what was actually needed. I elicit requirements, document workflows, run sprints, manage Jira, and bridge Product, Dev, and QA so nothing gets lost in translation.
+
+> *Always building. Always curious. Always figuring out what I want to be when I grow up — but doing it intentionally.*
+
+---
+
+## ⋆˚꩜｡ Currently at
+
+**Business System Analyst Trainee @ Edufied Pte Ltd**
+`SaaS` `EdTech` `Remote` `Jan 2026 – Jul 2026`
+
+```
+Eliciting requirements        →  Functional specs & process maps
+Jira sprint management        →  Backlog refinement & UAT planning
+AI-assisted prototyping       →  Claude · Cursor · Replit
+Stakeholder communication     →  Cross-functional alignment & reporting
+```
+
+---
+
+## ✮⋆｡°✩ Exploring & Building Toward
+
+I am figuring out my niche — and being intentional about it. Here is what pulls at me:
+
+**Technical Business Analysis (my core)**
+`IT Business Analyst` `Systems Analyst` `Business Systems Analyst`
+Requirements engineering, systems documentation, process improvement, and being the person who makes sure the right thing gets built right.
+
+**Data & Analytics BA**
+`Data Business Analyst` `BI Analyst`
+Using data to defend decisions, surface patterns in user behavior, and translate numbers into stakeholder narrative. Currently exploring Power BI, SQL deeper, and Python for analysis.
+
+**Product & Systems Design**
+`Product Engineer` `Software Design Engineer` `Technical PM`
+Interested in the overlap between product thinking and system design — where the "what" meets the "how." Vibe coding is part of how I explore this.
+
+**AI & Agents**
+`AI Workflow Integration` `LLM-based Automation` `Prompt Engineering`
+Using AI tools as genuine accelerants — and increasingly curious about the agent layer: how LLMs can automate high-friction workflows in business systems, not just assist individuals.
+
+**Web & 3D Design (side interest becoming serious)**
+`Modern Web Design` `3D for Web` `Creative Dev`
+I want to bring color back to the internet. Interested in expressive, immersive web experiences — the kind of sites that feel alive. Exploring Three.js, WebGL, and 3D browser experiences alongside traditional front-end.
+
+> Open to side hustles, freelance, volunteer projects, and anything that trades experience for learning. If you have something interesting — reach out.
+
+---
+
+## ✦ Moodboard Cat
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Cat typing on laptop — locked in"/>
+</p>
+
+<p align="center">
+  <em>locked in. building. caffeinated. slightly unhinged. getting it done.</em>
+</p>
+
+---
+
+## 𓆩✧𓆪 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
+
+**Frontend & UI**
+
+<p>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Three.js-0A0A0A?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+</p>
+
+**Data & Analysis**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Power_BI-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=150458"/>
+</p>
+
+**AI Tools** *(daily use)*
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-0A0A0A?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-0A0A0A?style=for-the-badge&logo=replit&logoColor=F26207"/>
+  <img src="https://img.shields.io/badge/DeepSeek-0A0A0A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-0A0A0A?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma_Make-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/OpenCode-0A0A0A?style=for-the-badge&logoColor=white"/>
+</p>
+
+**BA & PM Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0A0A0A?style=for-the-badge&logo=jira&logoColor=0052CC"/>
+  <img src="https://img.shields.io/badge/Confluence-0A0A0A?style=for-the-badge&logo=confluence&logoColor=172B4D"/>
+  <img src="https://img.shields.io/badge/Notion-0A0A0A?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-0A0A0A?style=for-the-badge&logo=miro&logoColor=F7C217"/>
+  <img src="https://img.shields.io/badge/ClickUp-0A0A0A?style=for-the-badge&logo=clickup&logoColor=7B68EE"/>
+  <img src="https://img.shields.io/badge/Lucidchart-0A0A0A?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Version Control & Cloud**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0A0A0A?style=for-the-badge&logo=bitbucket&logoColor=0052CC"/>
+  <img src="https://img.shields.io/badge/Azure-0A0A0A?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/GCP-0A0A0A?style=for-the-badge&logo=google-cloud&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+</p>
+
+---
+
+## 𑄝 What I Do
+
+| Area | What it looks like |
+|---|---|
+| Requirements & Docs | Stakeholder interviews → functional specs → process maps → engineering-ready tickets |
+| Sprint & Delivery | Jira admin · backlog refinement · sprint planning · UAT · defect tracking |
+| Systems Analysis | Gap analysis · workflow modeling · data flow diagramming · UI/UX flow analysis |
+| AI Prototyping | Claude · Cursor · Replit — validate concepts before dev begins |
+| Stakeholder Comms | Cross-functional alignment · status reporting · change management |
+| Front-End Support | React · JS · TS · HTML/CSS — enough to prototype and collaborate with engineers |
+
+---
+
+## 𓆩✧𓆪 Featured Project
+
+### Ticket Monitoring System — Saint Louis University, CCA
+`Academic Project` `2025` `Product Lead`
+
+Proposed centralized platform for ticket allocation, sales tracking, and remittance logging for the Center for Culture and the Arts.
+
+- Led discovery: stakeholder research → pain point mapping → system requirements definition
+- Owned scope: feature prioritization, MVP definition, engineering-ready documentation
+- Delivered: workflow diagrams, data flow maps, functional specs, and user adoption guides
+
+<!-- ADD MORE PROJECTS HERE as you build them
+### Project Name — Brief Description
+`tag` `year` `role`
+
+- What you built
+- What problem it solved
+- What you used
+-->
+
+---
 
 ## 𓆩✧𓆪 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorelairaras&show_icons=true&theme=dracula&bg_color=000000&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorelairaras&theme=dracula&background=000000&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lorelairaras&show_icons=true&theme=github_dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=true&rank_icon=github" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorelairaras&theme=github-dark-blue&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=888888&hide_border=true" width="48%"/>
 </p>
-
-## 𓆩✧𓆪 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/lorelairaras" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/lorelai-raras" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2d3436?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lorelairaras@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-7f8c8d?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorelairaras&layout=compact&theme=github_dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&hide_border=true&langs_count=8" width="40%"/>
 </p>
+
+---
+
+## 𓆩✧𓆪 Metrics
+
+<!-- PASTE YOUR GENERATED METRICS SVG HERE once the GitHub Action runs -->
+<!-- Example: -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/main/github/metrics/output/metrics.svg"/>
+</p> -->
+
+<!-- ISOMETRIC CALENDAR — generated by lowlighter/metrics -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/main/github/metrics/output/metrics.isocalendar.svg"/>
+</p> -->
+
+<!-- STARRED TOPICS — generated by lowlighter/metrics plugin_topics -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/main/github/metrics/output/metrics.topics.svg"/>
+</p> -->
+
+<!-- FEATURED REPOSITORIES — generated by lowlighter/metrics plugin_repositories -->
+<!-- Add your repos to plugin_repositories_featured in metrics.yml once you have more pinned repos -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/main/github/metrics/output/metrics.repositories.svg"/>
+</p> -->
+
+<!-- 16PERSONALITIES — ENFP/INFP — generated by lowlighter/metrics community plugin -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/main/github/metrics/output/metrics.16personalities.svg"/>
+</p> -->
+
+<details>
+<summary>( x ) metrics.yml — full workflow with all plugins</summary>
+
+```yaml
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lorelairaras
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Manila
+          filename: github/metrics/output/metrics.svg
+
+          # Isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Languages breakdown
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # Coding habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          # Recent activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_filter: push, pr, issue
+
+          # Starred topics
+          plugin_topics: yes
+          plugin_topics_mode: starred
+          plugin_topics_limit: 15
+          plugin_topics_sort: stars
+
+          # Featured repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: lorelairaras/lorelairaras
+          # Add more repos here as you build them:
+          # plugin_repositories_featured: lorelairaras/lorelairaras, lorelairaras/your-project
+
+          # 16personalities — ENFP/INFP
+          plugin_16personalities: yes
+          plugin_16personalities_url: https://www.16personalities.com/profiles/your-profile-url
+          plugin_16personalities_sections: personality, characteristics, motivations, strengths
+          plugin_16personalities_scores: yes
+```
+
+</details>
+
+---
 
 ## 𓆩✧𓆪 Contribution
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/lorelairaras/lorelairaras/output/github-snake-dark.svg"/>
   </picture>
 </p>
 
+---
+
+## ✦ Personality
+
+`ENFP / INFP` — *The Campaigner / The Mediator*
+
+Curious, empathetic, idea-driven. I get genuinely excited about problems worth solving. I care about the people behind the systems as much as the systems themselves. I overthink things productively. I like meaningful work and dislike bureaucracy for its own sake.
+
+---
+
+## ⋆˚꩜｡ Open To
+
+```
+IT Business Analysis      ·    Data Business Analysis    ·    Systems Analysis
+Technical Product Manager ·    Product Engineer           ·    Vibe Coding Projects
+AI Workflow Integration   ·    Creative Web Dev           ·    3D Web Experiences
+Remote                    ·    Full-Time                  ·    Freelance
+Side Hustles              ·    Volunteer Projects         ·    Anything interesting
+```
+
+> If you have something you want help building — a project, a side hustle, a weird idea —
+> reach out. I will trade effort for experience.
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,100:000000&height=150&section=footer&animation=fadeIn&fontAlignY=65" width="100%" />
+  <sub>lorelairaras@gmail.com · +63 962 255 8343 · <a href="https://linkedin.com/in/lorelai-raras">linkedin.com/in/lorelai-raras</a></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=80&section=footer&animation=fadeIn" width="100%"/>
 </p>
