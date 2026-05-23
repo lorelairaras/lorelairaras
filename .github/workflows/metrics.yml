@@ -30,24 +30,27 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
 
-          # Coding habits & activity patterns
+          # Coding habits
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          plugin_habits_languages_limit: 8
 
-          # Achievements / badges earned on GitHub
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 0
-
-          # Recent activity feed
+          # Recent activity 
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_filter: push, pr, issue, release, review
+          plugin_activity_filter: push, pr, issue
+          plugin_activity_visibility: public
 
+          # Achievements 
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+        
           # Starred topics — shows your interests as topic pills
           plugin_topics: yes
           plugin_topics_mode: starred
@@ -59,14 +62,6 @@ jobs:
           plugin_repositories_featured: lorelairaras/lorelairaras, lorelairaras/Portfolio
           # Add more as you build:
           # plugin_repositories_featured: lorelairaras/lorelairaras, lorelairaras/project-2, lorelairaras/project-3
-
-          # 16personalities — ENFP/INFP
-          # Steps: go to 16personalities.com, take the test, copy your profile URL
-          # Replace the URL below with your actual profile URL
-          plugin_16personalities: yes
-          plugin_16personalities_url: https://www.16personalities.com/profiles/replace-with-your-url
-          plugin_16personalities_sections: personality, characteristics, motivations, strengths
-          plugin_16personalities_scores: yes
 
           # Lines of code changed (shows your contribution volume)
           plugin_lines: yes
