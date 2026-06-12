@@ -94,7 +94,7 @@ Stakeholder communication     →  Cross-functional alignment · reporting · ch
   <a href="https://lorelairaras.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/✦_Visit_my_Portfolio-0A0A0A?style=for-the-badge"/>
   </a>
-  <a href="https://lorelairaras.github.io/Portfolio/public/Lorelai-Raras-Resume.pdf">
+  <a href="https://github.com/lorelairaras/lorelairaras/blob/main/assets/LorelaiRaras_Resume.pdf">
     <img src="https://img.shields.io/badge/☾_View_Resume-0A0A0A?style=for-the-badge"/>
   </a>
 </p>
