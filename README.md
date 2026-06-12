@@ -393,7 +393,7 @@ I want to bring color back to the internet. Interested in expressive, immersive 
 
 ## ✦ Personality
 
-`ENFP / INFP` — *The Campaigner / The Mediator* · ꒰ᐢ. ̫ .ᐢ꒱ cat energy · gothic pink, soft chaos
+`ENFP / INFP` — *The Campaigner / The Mediator* · ꒰ᐢ. ̫ .ᐢ꒱
 
 Curious, empathetic, idea-driven. I get genuinely excited about problems worth solving. I care about the people behind the systems as much as the systems themselves. I overthink things productively. I like meaningful work and dislike bureaucracy for its own sake.
 
